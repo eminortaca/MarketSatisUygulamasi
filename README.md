@@ -113,13 +113,15 @@ Uygulama başlatıldığında aşağıdaki örnek ürünler otomatik yüklenir:
 - Elma (40 TL)
 - Portakal (30 TL)
 
-## 📸 Ekran Görüntüleri
+## 🎨 Arayüz Özellikleri
 
-Uygulama arayüzü şunları içerir:
-- **Üst Panel**: Uygulama başlığı
-- **Sol Panel**: Ürün listesi, arama ve filtreleme
+Uygulama modern ve kullanıcı dostu bir arayüze sahiptir:
+- **Üst Panel**: Uygulama başlığı ve logo
+- **Sol Panel**: Ürün listesi tablosu, arama ve kategori filtreleme
 - **Sağ Panel**: Ürün ekleme/düzenleme/silme formu
-- **Alt Panel**: Alışveriş sepeti ve toplam tutar
+- **Alt Panel**: Alışveriş sepeti ve toplam tutar gösterimi
+
+> 💡 **Not**: Ekran görüntülerini görmek için uygulamayı çalıştırın veya `screenshots/` klasörüne bakın.
 
 ## 🤝 Katkıda Bulunma
 
