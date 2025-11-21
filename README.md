@@ -5,7 +5,7 @@
 ![Version](https://img.shields.io/badge/Version-1.0.0-green?style=flat-square)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey?style=flat-square)
 
-Modern ve kullanıcı dostu bir perakende yönetim sistemi. Java 21 ve Swing GUI ile geliştirilmiş, market ve mağaza işletmeleri için eksiksiz bir satış noktası çözümü.
+Modern ve kullanıcı dostu bir market satış yönetim sistemi. Java 21 ve Swing GUI kullanılarak geliştirilmiştir.
 
 ## 📋 Özellikler
 
@@ -44,10 +44,17 @@ MarketMate/
 ## 🛠️ Kurulum ve Çalıştırma
 
 ### Gereksinimler
-- Java 21 veya üzeri
-- JDK kurulu olmalı
+- Java 11 veya üzeri
+- Git (projeyi indirmek için)
 
-### Derleme ve Çalıştırma
+### Projeyi İndirin
+
+```bash
+git clone https://github.com/eminortaca/MarketMate.git
+cd MarketMate
+```
+
+### Çalıştırma
 
 #### Windows:
 ```cmd
