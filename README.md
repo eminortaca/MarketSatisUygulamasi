@@ -1,11 +1,11 @@
-# Market Satış Uygulaması 🛒
+# MarketMate 🛒
 
 ![Java](https://img.shields.io/badge/Java-21-orange?style=flat-square&logo=openjdk)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
 ![Version](https://img.shields.io/badge/Version-1.0.0-green?style=flat-square)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey?style=flat-square)
 
-Modern ve kullanıcı dostu bir market satış yönetim sistemi. Java 21 ve Swing GUI kullanılarak geliştirilmiştir.
+Modern ve kullanıcı dostu bir perakende yönetim sistemi. Java 21 ve Swing GUI ile geliştirilmiş, market ve mağaza işletmeleri için eksiksiz bir satış noktası çözümü.
 
 ## 📋 Özellikler
 
@@ -27,7 +27,7 @@ Modern ve kullanıcı dostu bir market satış yönetim sistemi. Java 21 ve Swin
 ## 📂 Proje Yapısı
 
 ```
-MarketSatisUygulamasi/
+MarketMate/
 ├── src/
 │   ├── model/
 │   │   ├── Product.java          # Ürün modeli

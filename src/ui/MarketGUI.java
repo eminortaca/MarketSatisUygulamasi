@@ -36,7 +36,7 @@ public class MarketGUI extends JFrame {
     }
 
     private void initializeUI() {
-        setTitle("Market Satış Uygulaması");
+        setTitle("MarketMate");
         setSize(1200, 700);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLocationRelativeTo(null);
@@ -59,8 +59,8 @@ public class MarketGUI extends JFrame {
         headerPanel.setBackground(new Color(52, 152, 219));
         headerPanel.setBorder(BorderFactory.createEmptyBorder(15, 20, 15, 20));
         
-        JLabel titleLabel = new JLabel("🛒 MARKET SATIŞ SİSTEMİ");
-        titleLabel.setFont(new Font("Arial", Font.BOLD, 28));
+        JLabel titleLabel = new JLabel("MarketMate ");
+        titleLabel.setFont(new Font("Segoe UI", Font.BOLD, 32));
         titleLabel.setForeground(Color.WHITE);
         headerPanel.add(titleLabel, BorderLayout.WEST);
         
