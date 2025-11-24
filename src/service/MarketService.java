@@ -25,7 +25,8 @@ public class MarketService {
         addProduct(new Product("P005", "Domates", 35.0, 100, "Sebze"));
         addProduct(new Product("P006", "Salatalık", 20.0, 80, "Sebze"));
         addProduct(new Product("P007", "Elma", 40.0, 60, "Meyve"));
-        addProduct(new Product("P008", "Portakal", 30.0, 70, "Meyve"));
+        addProduct(new Product("P008", "Muz", 30.0, 70, "Meyve"));
+        addProduct(new Product("P009", "Patlıcan", 60.0, 60, "Sebze"));
     }
 
     // Ürün ekle
