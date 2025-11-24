@@ -1,5 +1,6 @@
 @echo off
 echo Derleniyor...
+if not exist bin mkdir bin
 javac -encoding UTF-8 -d bin src/model/*.java src/service/*.java src/ui/*.java
 if %errorlevel% equ 0 (
     echo Derleme basarili!
